@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<h1 align = "center"> Hey! My name is PARTH DESAI </h1>
+<h3 align = "center"> Hey there. Welcome to my github profile</h3>
+<h3 align = "center">Love to work in a team.<br> | Explorer | Aspiring Data Scientist | Content Writer | Computer Science Engineer |</br>
+<p>Exploring the field of Data Science.</p>
+
 <!--
 **ParthTechie/ParthTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
