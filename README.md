@@ -9,7 +9,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ParthTechie&theme=radical&no-frame=true&no-bg=false&column=-1)
 <hr>
-## Parth's GitHub Activity Graph 
+## Parth's GitHub Activity Graph
+
 ![Parth Desai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParthTechie&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <!--
