@@ -7,7 +7,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ParthTechie&theme=matrix&no-frame=true&no-bg=false&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=ParthTechie&theme=radical&no-frame=true&no-bg=false&column=-1)
 
 
 <!--
