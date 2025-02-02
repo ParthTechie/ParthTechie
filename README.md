@@ -5,6 +5,11 @@
 <h3 align = "center">Love to work in a team.<br> | Explorer | AIML Engineer |</br>
 <p>Exploring the field of AIML.</p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ParthTechie&theme=matrix&no-frame=true&no-bg=false&column=-1)
+
+
 <!--
 **ParthTechie/ParthTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
