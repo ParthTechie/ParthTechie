@@ -5,6 +5,10 @@
 <h3 align = "center">Love to work in a team.<br> | Explorer | AIML Engineer |</br>
 <p>Exploring the field of AIML.</p>
 
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthTechie&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parth Desai"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ParthTechie&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parth Desai" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthTechie&theme=dark" alt="Parth Desai" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ParthTechie&theme=radical&no-frame=true&no-bg=false&column=-1)
